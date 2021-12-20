@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "fa1740a7b1f56f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7abdec9a74f2e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.索引/算法.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "907bc628b40b8aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "35fa0dc24f447ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903964dc8608c7b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5bcd30e17545d38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f229021a47fb7a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7233b5c687da5d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1858f7e83a7eeac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.索引/算法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea7abdec9a74f2e8",
+  "lastOpenFiles": [
+    "1.索引/算法.md",
+    "1.索引/js 面试题.md",
+    "1.索引/vue3.md",
+    "1.索引/pdf.md",
+    "2.笔记/JavaScript高级程序设计第四版.md",
+    "2.笔记/未命名.md",
+    "2.笔记/Javascript高级程序设计第四版.md",
+    "2.笔记/eventLoop.md",
+    "2.笔记/computed实现.md",
+    "2.笔记/依赖收集.md"
+  ]
+}
