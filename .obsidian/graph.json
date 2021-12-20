@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "file:vue3笔记",
+      "color": {
+        "a": 1,
+        "rgb": 15169293
+      }
+    },
+    {
+      "query": "file:js 面试题",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:算法结构",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "file:pdf",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 3.11086482558139,
-  "lineSizeMultiplier": 1.60765806686047,
+  "nodeSizeMultiplier": 2.8055050872093,
+  "lineSizeMultiplier": 2.0274164244186,
   "collapse-forces": false,
-  "centerStrength": 0.491824127906977,
-  "repelStrength": 9.16242732558139,
+  "centerStrength": 0.4171875,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 321,
+  "linkDistance": 250,
   "scale": 1.8831205762909664,
-  "close": false
+  "close": true
 }
