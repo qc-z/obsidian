@@ -2,5 +2,7 @@
   "obsidian-kanban",
   "remember-cursor-position",
   "obsidian-annotator",
-  "obsidian-git"
+  "obsidian-git",
+  "markdown-prettifier",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]
