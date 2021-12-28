@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.笔记/vue3初始化流程.md",
+            "file": "2.笔记/未命名.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.笔记/vue3初始化流程.md",
+            "file": "2.笔记/未命名.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.笔记/vue3初始化流程.md",
+                "file": "2.笔记/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "ea7abdec9a74f2e8",
   "lastOpenFiles": [
+    "2.笔记/未命名.md",
     "2.笔记/vue3初始化流程.md",
     "2.笔记/vue3常用API.md",
     "1.索引/js 面试题.md",
@@ -109,7 +110,6 @@
     "2.笔记/eventLoop.md",
     "1.索引/vue3笔记.md",
     "1.索引/算法结构.md",
-    "1.索引/pdf.md",
-    "2.笔记/ref的实现.md"
+    "1.索引/pdf.md"
   ]
 }
