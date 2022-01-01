@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7abdec9a74f2e8",
+        "id": "8bf36a37222e992c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2.笔记/根据swagger生成接口文件.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.笔记/根据swagger生成接口文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ea7abdec9a74f2e8",
+  "active": "8bf36a37222e992c",
   "lastOpenFiles": [
     "2.笔记/根据swagger生成接口文件.md",
     "2.笔记/vue3初始化流程.md",
