@@ -38,4 +38,4 @@ module.exports = {
 }
 ```
 
-<br />11. `yarn test` 完成项目搭建
+11. `yarn test` 完成项目搭建
